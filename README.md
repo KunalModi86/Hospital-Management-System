@@ -1,7 +1,3 @@
-# Hospital-Management-System
-A C-based Hospital Management System with modules for staff, doctors, patients, medicines, and labs.
-
-
 # Hospital Management System
 
 A **C-based Hospital Management System (HMS)** designed to efficiently manage various hospital operations. This project includes modules to handle staff, doctors, patients, medicines, and labs, providing an organized structure for hospital administration.
